@@ -7,8 +7,20 @@
 - 6명으로 구성
 
 ### 노션 관리
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7a7af308-e170-4576-963e-45990af12d5f/3f45cd40-5db6-4aa6-943a-f0e51627ac3a/image.png)
+![image](https://github.com/user-attachments/assets/2a6ac94e-7921-437c-83e5-20795826a7c8)
 
 ### ERD Cloud
-![image01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7a7af308-e170-4576-963e-45990af12d5f/a89853b6-5ceb-4a14-9d48-978745371f7c/image01.png)
 ![image01](https://github.com/user-attachments/assets/105ace7f-ea72-4a9b-b54b-9a6c2c6b4f89)
+
+### 맡은 기능
+1. 즐겨찾기 기능
+  1) 칵테일 상세 페이지
+  ![chrome_9WuAQanDe7](https://github.com/user-attachments/assets/d85de424-33c7-43ee-8f67-939abb7dd531)
+  - 메뉴의 상세페이지에서 하트이모지 클릭 시 즐겨찾기 및 코멘트 작성 가능
+  - 한번 더 클릭 시 즐겨찾기 취소 가능
+
+  2) MY PAGE - 즐겨찾기
+  ![chrome_phV6NK8UXf](https://github.com/user-attachments/assets/d59a64ea-ffba-4b6d-85ea-2d474ff3fe0f)
+  ![chrome_zvoB8J9naC](https://github.com/user-attachments/assets/6678578c-2bfb-46c1-8cd5-3177929a4d28)
+  - 즐겨찾기 설정한 메뉴는 MY PAGE ‘즐겨찾기’ 에서 확인 가능
+  - 메뉴 호버 시 코멘트 수정 및 삭제 가능
