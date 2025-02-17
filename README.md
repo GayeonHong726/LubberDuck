@@ -12,7 +12,7 @@
 ### ERD Cloud
 ![image01](https://github.com/user-attachments/assets/105ace7f-ea72-4a9b-b54b-9a6c2c6b4f89)
 
-### 맡은 기능
+### 작업 내용
 #### 즐겨찾기 기능
   1) 칵테일 상세 페이지
   ![chrome_9WuAQanDe7](https://github.com/user-attachments/assets/d85de424-33c7-43ee-8f67-939abb7dd531)
