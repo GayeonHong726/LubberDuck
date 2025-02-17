@@ -13,7 +13,7 @@
 ![image01](https://github.com/user-attachments/assets/105ace7f-ea72-4a9b-b54b-9a6c2c6b4f89)
 
 ### 맡은 기능
-1. 즐겨찾기 기능
+#### 즐겨찾기 기능
   1) 칵테일 상세 페이지
   ![chrome_9WuAQanDe7](https://github.com/user-attachments/assets/d85de424-33c7-43ee-8f67-939abb7dd531)
   - 메뉴의 상세페이지에서 하트이모지 클릭 시 즐겨찾기 및 코멘트 작성 가능
@@ -24,3 +24,6 @@
   ![chrome_zvoB8J9naC](https://github.com/user-attachments/assets/6678578c-2bfb-46c1-8cd5-3177929a4d28)
   - 즐겨찾기 설정한 메뉴는 MY PAGE ‘즐겨찾기’ 에서 확인 가능
   - 메뉴 호버 시 코멘트 수정 및 삭제 가능
+
+#### 최근 본 항목 기능
+![chrome_yAIG1hzJBl](https://github.com/user-attachments/assets/b16b3c7f-5c2f-41cb-b593-f84ac549df3e)
